@@ -17,4 +17,4 @@ The crypto npm package is used to:
 - Encrypt the data before it's stored
 - Decrypt the data when performing `READ` and `UPDATE` operations
 
-- 
+  
